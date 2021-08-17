@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<graphics.h>
 
-int drawit()
+int main()
 {
  int gd=DETECT,gm;
  int i=72,x=100,y=100,pc=12,gpc;
