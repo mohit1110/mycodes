@@ -1,6 +1,6 @@
 /*
  * SAFEX program *
-  Created by *MOHIT* and *LALIT*
+  Created by *MOHIT*
   Date:30-01-2021
 */
 #include<stdio.h>
